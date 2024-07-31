@@ -6,6 +6,7 @@ Connect whit me:
 😊
 
 **fer-byte/fer-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![fer-byte] 
 
 Here are some ideas to get you started:
 
@@ -19,3 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   
 💀
+<div style =" display: incline_block>br/>
+<img aling="center" alt="html5" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
