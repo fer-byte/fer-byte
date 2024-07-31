@@ -1,4 +1,5 @@
-![logo](https://github.com/fer-byte/fer-byte/blob/main/senai.png)
+![modelo-cv-estagiario](https://github.com/user-attachments/assets/c95cd367-c883-4e6c-a3a8-fe94534a5ad4)![logo](https://github.com/fer-byte/fer-byte/blob/main/senai.png)
+![c.v] ()
 
 Connect whit me:
 [![Linkedin](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white/)]
@@ -8,7 +9,7 @@ Connect whit me:
 😊
 
 **fer-byte/fer-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![fer-byte] 
+[![fer-byte]
 
 Here are some ideas to get you started:
 
