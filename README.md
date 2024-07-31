@@ -1,4 +1,4 @@
-Para mais informações veja meu <a ref" " class="nav-link"> **curriculo** </a>
+Para mais informações veja meu <a ref"https://github.com/fer-byte/fer-byte/blob/main/modelo-com-foto_potente.svg " class="nav-link"> **curriculo** </a>
 
 Connect whit me:
 [![Linkedin](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white/)]
