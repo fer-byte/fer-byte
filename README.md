@@ -1,5 +1,4 @@
-![modelo-cv-estagiario](https://github.com/user-attachments/assets/c95cd367-c883-4e6c-a3a8-fe94534a5ad4)![logo](https://github.com/fer-byte/fer-byte/blob/main/senai.png)
-![c.v] ()
+
 
 Connect whit me:
 [![Linkedin](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white/)]
